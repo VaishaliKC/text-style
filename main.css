@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+html{
+  font-size: 20px;
+}
+*{
+  font-size: 16px;
+  font-family: 'Roboto', Arial , sans-serif;
+}
+h1{
+  font-size: 200%;
+}
+.monospace{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.px{
+  font-size: 100px;
+}
+.em-parent{
+  font-size: 100px;
+}
+.em{
+  font-size: 1em;
+}
+.percent{
+  font-size: 120%;
+}
+.rem-parent{
+  font-size: 25px;
+}
+.rem{
+  font-size: 2rem;
+}
+.italic{
+  font-style: italic;
+}
+#oblique{
+  font-style: oblique;
+}
+.normal-weight{
+  font-weight: normal;
+}
+.bold-weight{
+  font-weight: bold;
+}
+.lighter-weight{
+  font-weight: lighter;
+}
+.bolder-weight{
+  font-weight: bolder;
+}
+.hundred-weight{
+  font-weight: 100;
+}
+.three-hundred-weight{
+  font-weight: 300;
+}
+.four-hundred-weight{
+  font-weight: 400;
+}
+.five-hundred-weight{
+  font-weight: 500;
+}
+.seven-hundred-weight{
+  font-weight: 700;
+}
+.nine-hundred-weight{
+  font-weight: 900;
+}
+.trans-none{
+  text-transform: none;
+}
+.trans-upper{
+  text-transform: uppercase;
+}
+.trans-lower{
+  text-transform: lowercase;
+}
+.trans-capitalize{
+  text-transform: capitalize;
+}
+.dec-none{
+  text-decoration: none;
+}
+.dec-underline{
+  text-decoration: underline;
+}
+.dec-overline{
+  text-decoration: overline;
+}
+.dec-line-through{
+  text-decoration: line-through;
+}
+.shadow{
+  font-size: 200px;
+  text-shadow: 10px 10px 1px black;
+}
+.letter-spacing{
+  letter-spacing: 10px;
+}
+.word-spacing{
+  word-spacing: 20px;
+}
+.line-height{
+  line-height: 1.2;
+  text-align: justify;
+}
+.text-align-parent{
+  border: 1px solid #666;
+}
+.text-align-left{
+  text-align: left;
+}
+.text-align-right{
+  text-align: right;
+}
+.text-align-justify{
+  text-align: justify;
+}
